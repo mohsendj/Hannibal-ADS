@@ -16,8 +16,7 @@ To support AI-powered optical detection and tracking algorithms, we have develop
 - Features
 
 ## Installation
-DAMS is the software component of the HABBIBAL air defense system. Simply launch the executable file and follow the instructions to install the software.
-For hardware installation, see the HANNIBAL ADS readme file.
+The hardware installation is shown in figure installation.jpg, while the software installation is presented in the readme file of the DAMS project.
 
 ## Usage
 After installing the software and hardware, launch the software and click on the administration field to define the configuration. The system is now ready for drone detection and tracking. 
